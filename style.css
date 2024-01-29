@@ -24,7 +24,7 @@ body::before {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  filter: blur(3px);
+  filter: blur(4px);
   z-index: -1;
 }
 
